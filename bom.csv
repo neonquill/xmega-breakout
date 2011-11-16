@@ -1,0 +1,12 @@
+Part,Type,Value,Quantity,Digikey Part #
+Microcontroller,ATXmega16D4,,1,ATXMEGA16D4-AU-ND
+Crystal,"Can, Radial",32.768 kHz,1,300-8301-ND
+Header,0.1”,2x3,1,
+Header,0.1” right angle,1x6,1,
+Header,0.1”,1x9,4,
+Header,0.1”,1x2,1,
+Capacitor,0603 Ceramic,0.1uF,5,478-1239-1-ND
+Capacitor,0603 Ceramic,7pF,2,445-5041-1-ND
+Resistor,0603,10k,1,311-10KGRCT-ND
+Switch,SPST,,1,679-2452-ND
+PTC Fuse,1206,500 mA,1,507-1480-1-ND
